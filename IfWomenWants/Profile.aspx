@@ -29,7 +29,7 @@
                                 <div class="profile-header">
                                     <div class="overlay"></div>
                                     <div class="profile-main">
-                                        <img src="" class="img-circle" alt="Avatar">
+                                        <img src="assets/img/user-medium.png" class="img-circle" alt="Avatar">
                                         <h3 class="name">İsim Soyisim</h3>
                                         <span class="online-status status-available">Online</span>
                                     </div>
