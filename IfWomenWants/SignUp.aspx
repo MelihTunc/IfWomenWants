@@ -54,7 +54,7 @@
                                         <option value="Company">Company</option>
                                     </select>
                                 </div>
-                                <a href="#" class="btn btn-primary btn-lg btn-block">Create Account</a>
+                                <a href="Settings.aspx" class="btn btn-primary btn-lg btn-block">Create Account</a>
                             </form>
                         </div>
                     </div>

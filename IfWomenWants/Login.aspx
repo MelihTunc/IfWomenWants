@@ -49,9 +49,9 @@
 										<span>Remember me</span>
 									</label>
                                 </div>
-                                <a href="#" class="btn btn-primary btn-lg btn-block">LOGIN</a>
+                                <a href="List.aspx" class="btn btn-primary btn-lg btn-block">LOGIN</a>
                                 <div class="bottom">
-                                    <span class="helper-text"><i class="fa fa-lock"></i> <a href="">Dont have an account?</a></span>
+                                    <span class="helper-text"><i class="fa fa-lock"></i> <a href="SignUp.aspx">Dont have an account?</a></span>
                                 </div>
                             </form>
                         </div>

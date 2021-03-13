@@ -55,7 +55,7 @@
                             <li><a href="#work-process">Work Process</a></li>
                             <li><a href="#testimonials">Testimonials</a></li>
                             <li><a href="#contact-us">Contact Us</a></li>
-                            <li><a href="#">Login / Register</a></li>
+                            <li><a href="Login.aspx">Login / Register</a></li>
                         </ul>
                         <a class='menu-trigger'>
                             <span>Menu</span>
