@@ -125,6 +125,7 @@
     <Content Include="List.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="Profile.aspx" />
+    <Content Include="Settings.aspx" />
     <Content Include="SignUp.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -165,6 +166,13 @@
       <DependentUpon>Profile.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings.aspx.cs">
+      <DependentUpon>Settings.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Settings.aspx.designer.cs">
+      <DependentUpon>Settings.aspx</DependentUpon>
+    </Compile>
     <Compile Include="SignUp.aspx.cs">
       <DependentUpon>SignUp.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
