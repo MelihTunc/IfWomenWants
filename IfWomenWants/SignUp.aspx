@@ -36,10 +36,6 @@
                             </div>
                             <form class="form-auth-small" runat="server">
                                 <div class="form-group">
-                                    <label for="signin-username" class="control-label sr-only">User Name</label>
-                                    <input type="text" class="form-control" id="signin-username" placeholder="User Name">
-                                </div>
-                                <div class="form-group">
                                     <label for="signin-email" class="control-label sr-only">Email</label>
                                     <input type="email" class="form-control" id="signin-email" placeholder="Email">
                                 </div>
