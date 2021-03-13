@@ -9,7 +9,7 @@
                     <ul class="nav">
                         <li><a href="List.aspx" class=""><i class="lnr lnr-home"></i><span>Dashboard</span></a></li>
                         <li><a href="Profile.aspx" class=""><i class="lnr lnr-user"></i><span>My Profile</span></a></li>
-                        <li><a href="#" class=""><i class="lnr lnr-chart-bars"></i><span>Job Application</span></a></li>
+                        <li><a href="JobApp.aspx" class=""><i class="lnr lnr-chart-bars"></i><span>Job Application</span></a></li>
                         <li><a href="#" class="active"><i class="lnr lnr-cog"></i><span>Settings</span></a></li>
                     </ul>
                 </nav>

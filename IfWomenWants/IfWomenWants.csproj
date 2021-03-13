@@ -122,6 +122,8 @@
     <Content Include="assets\vendor\toastr\toastr.min.css" />
     <Content Include="assets\vendor\toastr\toastr.min.js" />
     <Content Include="Default.aspx" />
+    <Content Include="Details.aspx" />
+    <Content Include="JobApp.aspx" />
     <Content Include="List.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="Profile.aspx" />
@@ -136,6 +138,20 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Details.aspx.cs">
+      <DependentUpon>Details.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Details.aspx.designer.cs">
+      <DependentUpon>Details.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JobApp.aspx.cs">
+      <DependentUpon>JobApp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JobApp.aspx.designer.cs">
+      <DependentUpon>JobApp.aspx</DependentUpon>
     </Compile>
     <Compile Include="List.aspx.cs">
       <DependentUpon>List.aspx</DependentUpon>
