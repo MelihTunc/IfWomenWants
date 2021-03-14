@@ -82,6 +82,7 @@
   <ItemGroup>
     <Content Include="assets\css\bootstrap.min.css" />
     <Content Include="assets\css\flex-slider.css" />
+    <Content Include="assets\css\main.css" />
     <Content Include="assets\css\theme.css" />
     <Content Include="assets\fonts\flexslider-icon.svg" />
     <Content Include="assets\fonts\fontawesome-webfont.svg" />
@@ -98,16 +99,20 @@
     <Content Include="assets\img\fun-facts-bg.png" />
     <Content Include="assets\img\Kadın İstersen.png" />
     <Content Include="assets\img\left-image.png" />
+    <Content Include="assets\img\login-bg.jpg" />
     <Content Include="assets\img\logo-dark.png" />
     <Content Include="assets\img\logo.png" />
     <Content Include="assets\img\makas.png" />
     <Content Include="assets\img\mala.png" />
     <Content Include="assets\img\pompa.png" />
+    <Content Include="assets\img\profile-bg.png" />
     <Content Include="assets\img\right-image.png" />
     <Content Include="assets\img\sag.png" />
     <Content Include="assets\img\sol.png" />
     <Content Include="assets\img\testere.png" />
     <Content Include="assets\img\testimonial-icon.png" />
+    <Content Include="assets\img\user-medium.png" />
+    <Content Include="assets\img\user.png" />
     <Content Include="assets\img\work-process-bg.png" />
     <Content Include="assets\img\work-process-item-01.png" />
     <Content Include="assets\js\custom.js" />
@@ -116,6 +121,9 @@
     <Content Include="assets\js\popper.js" />
     <Content Include="assets\js\scrollreveal.min.js" />
     <Content Include="assets\js\waypoints.min.js" />
+    <Content Include="assets\scripts\common.js" />
+    <Content Include="assets\scripts\datatables.js" />
+    <Content Include="assets\scripts\datatables.min.js" />
     <Content Include="assets\vendor\bootstrap\css\bootstrap-theme.css" />
     <Content Include="assets\vendor\bootstrap\css\bootstrap-theme.min.css" />
     <Content Include="assets\vendor\bootstrap\css\bootstrap.css" />
@@ -145,6 +153,7 @@
     <Content Include="CompanySettings.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Details.aspx" />
+    <Content Include="Global.asax" />
     <Content Include="JobApp.aspx" />
     <Content Include="List.aspx" />
     <Content Include="Login.aspx" />
@@ -174,6 +183,9 @@
     </Compile>
     <Compile Include="Details.aspx.designer.cs">
       <DependentUpon>Details.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="JobApp.aspx.cs">
       <DependentUpon>JobApp.aspx</DependentUpon>

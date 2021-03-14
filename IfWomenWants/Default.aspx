@@ -50,12 +50,12 @@
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-                            <li><a href="#welcome" class="active">Home</a></li>
-                            <li><a href="#features">About</a></li>
-                            <li><a href="#work-process">Work Process</a></li>
-                            <li><a href="#testimonials">Testimonials</a></li>
-                            <li><a href="#contact-us">Contact Us</a></li>
-                            <li><a href="Login.aspx">Login / Register</a></li>
+                            <li><a href="#welcome" class="active">Ana Ekran</a></li>
+                            <li><a href="#features">Hakkımızda</a></li>
+                            <li><a href="#work-process">Neden Olmasın</a></li>
+                            <li><a href="#testimonials">Yorumlar</a></li>
+                            <li><a href="#contact-us">İletişim</a></li>
+                            <li><a href="Login.aspx">Giriş Yap</a></li>
                         </ul>
                         <a class='menu-trigger'>
                             <span>Menu</span>
@@ -319,25 +319,24 @@
         <div class="content">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <div class="count-item decoration-bottom">
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="count-item decoration-top">
                             <strong>81</strong>
                             <span>İlde</span>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="count-item decoration-top">
-                            <strong>456005</strong>
+                            <strong>456,005</strong>
                             <span>Şirkette</span>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <div class="count-item decoration-bottom">
-                            <strong>3743257</strong>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="count-item decoration-none">
+                            <strong>3,743,257</strong>
                             <span> Kadın İstihdam</span>
                         </div>
                     </div>
-                  
                 </div>
             </div>
         </div>
@@ -363,16 +362,9 @@
             </div>
             <!-- ***** Section Title End ***** -->
 
-            
-                <!-- ***** Contact Text Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                  
-                    
-                </div>
-                <!-- ***** Contact Text End ***** -->
 
                 <!-- ***** Contact Form Start ***** -->
-                <div class="col-lg-8 col-md-6 col-sm-12">
+                <div class="col-md-12 col-sm-12">
                     <div class="contact-form">
                         <form id="contact" action="" method="get">
                             <div class="row">

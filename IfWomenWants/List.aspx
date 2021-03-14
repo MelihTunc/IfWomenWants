@@ -36,24 +36,23 @@
                     <!-- OVERVIEW -->
                     <table class="table table-bordered" id="dataTable" cellspacing ="0">
                         <thead>
-                            <tr>
-                                <th>
-                                    İş İlanları &nbsp;
-                                </th>
-                            </tr>
+                            <tr><th>İş İlanları</th></tr>
                         </thead>
                         <tbody>
                             <tr>
                                 <td>
                                     <div class="panel-no-bottom-margin panel-headline">
                                         <div class="panel-heading">
-                                            <h3 class="panel-title">List</h3>
-                                            <p class="panel-subtitle">Todays date time</p>
+                                            <h3 class="panel-title">firma adı</h3>
+                                            <p class="panel-subtitle">Tarih</p>
                                         </div>
                                         <div class="panel-body">
                                             <div class="row">
-                                                <div class="col-md-12">
-
+                                                <div class="col-md-12" style="text-align:justify">
+                                                    ilan başlığı
+                                                    <div style="text-align: right;">
+                                                        <a href="Details.aspx" class="btn btn-primary">Detaylar</a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -64,13 +63,16 @@
                                 <td>
                                     <div class="panel-no-bottom-margin panel-headline">
                                         <div class="panel-heading">
-                                            <h3 class="panel-title">List</h3>
-                                            <p class="panel-subtitle">Todays date time</p>
+                                            <h3 class="panel-title">firma adı</h3>
+                                            <p class="panel-subtitle">Tarih</p>
                                         </div>
                                         <div class="panel-body">
                                             <div class="row">
-                                                <div class="col-md-12">
-
+                                                <div class="col-md-12" style="text-align:justify">
+                                                    ilan başlığı
+                                                    <div style="text-align: right;">
+                                                        <a href="Details.aspx" class="btn btn-primary">Detaylar</a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -81,13 +83,16 @@
                                 <td>
                                     <div class="panel-no-bottom-margin panel-headline">
                                         <div class="panel-heading">
-                                            <h3 class="panel-title">List</h3>
-                                            <p class="panel-subtitle">Todays date time</p>
+                                            <h3 class="panel-title">firma adı</h3>
+                                            <p class="panel-subtitle">Tarih</p>
                                         </div>
                                         <div class="panel-body">
                                             <div class="row">
-                                                <div class="col-md-12">
-
+                                                <div class="col-md-12" style="text-align:justify">
+                                                    ilan başlığı
+                                                    <div style="text-align: right;">
+                                                        <a href="Details.aspx" class="btn btn-primary">Detaylar</a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>

@@ -4,7 +4,7 @@
 <html lang="en" class="fullscreen-bg">
 
 <head runat="server">
-    <title>Login | IWW</title>
+    <title>Giriş Yap | IWW</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -32,27 +32,26 @@
                             <div class="header">
                                 <div class="logo text-center"><img src="assets/img/logo.png" width="400" alt="Logo">
                                 </div>
-                                <p class="lead">Login to your account</p>
                             </div>
-                            <form class="form-auth-small" runat="server">
+                            <form id="form1" class="form-auth-small" runat="server">
                                 <div class="form-group">
-                                    <label for="signin-email" class="control-label sr-only">Email</label>
-                                                                          
-                                    <input id="email"  class="form-control" type="email" />
+                                    <span class="control-label">Email</span>
+                                    <asp:TextBox ID="txtmail" class="form-control" runat="server"></asp:TextBox>
                                 </div>
                                 <div class="form-group">
-                                    <label for="signin-password" class="control-label sr-only">Password</label>
-                                    <input id="Password"  class="form-control" type="password" />
+                                    <span class="control-label">Şifre</span>
+                                    <asp:TextBox ID="txtpass" class="form-control" runat="server" TextMode="Password"></asp:TextBox>
                                 </div>
                                 <div class="form-group clearfix">
                                     <label class="fancy-checkbox element-left">
-                                        <asp:CheckBox ID="CheckBox" runat="server" />				
-										<span>Remember me</span>
+                                        <asp:CheckBox ID="CheckBox" runat="server" />
+										<span>Beni Hatırla</span>
 									</label>
                                 </div>
-                                <a href="List.aspx" class="btn btn-primary btn-lg btn-block">LOGIN</a>
+                                <a href="List.aspx" class="btn btn-primary btn-lg btn-block">Giriş Yap</a>
+                                <!--<asp:Button ID="btnlogin" class="btn btn-primary btn-lg btn-block" runat="server" Text="Login"/>-->
                                 <div class="bottom">
-                                    <span class="helper-text"><i class="fa fa-lock"></i> <a href="SignUp.aspx">Dont have an account?</a></span>
+                                    <span class="helper-text"><i class="fa fa-lock"></i> <a href="SignUp.aspx">Hesabın yok mu?</a></span>
                                 </div>
                             </form>
                         </div>
@@ -60,8 +59,8 @@
                     <div class="right">
                         <div class="overlay"></div>
                         <div class="content text">
-                            <h1 class="heading">Dashboard</h1>
-                            <p>by The Develovers</p>
+                            <h1 class="heading">IfWomenWants</h1>
+                            <p>Giriş Yap</p>
                         </div>
                     </div>
                     <div class="clearfix"></div>

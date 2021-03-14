@@ -4,7 +4,7 @@
 <html lang="en" class="fullscreen-bg">
 
 <head runat="server">
-    <title>Sign Up | IWW</title>
+    <title>Kayıt Ol | IWW</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -30,39 +30,38 @@
                     <div class="left">
                         <div class="content">
                             <div class="header">
-                                <div class="logo text-center"><img src="assets/img/logo.png" width="400" alt="Logo">
-                                </div>
-                                <p class="lead">Create your account</p>
+                                <div class="logo text-center"><img src="assets/img/logo.png" width="400" alt="Logo"></div>
                             </div>
-                            <form class="form-auth-small" runat="server">
+                            <form id="form1" class="form-auth-small" runat="server">
                                 <div class="form-group">
-                                    <label for="signin-email" class="control-label sr-only">Email</label>
-                                    <input type="email" class="form-control" id="signin-email" placeholder="Email">
+                                    <span class="control-label">Email</span>
+                                    <asp:TextBox ID="txtmail" class="form-control" runat="server"></asp:TextBox>
                                 </div>
                                 <div class="form-group">
-                                    <label for="signin-password" class="control-label sr-only">Password</label>
-                                    <input type="password" class="form-control" id="signin-password" placeholder="Password">
+                                    <span class="control-label">Şifre</span>
+                                    <asp:TextBox ID="txtpass" class="form-control" runat="server" TextMode="Password"></asp:TextBox>
                                 </div>
                                 <div class="form-group">
-                                    <label for="signin-password-confirm" class="control-label sr-only">Password</label>
-                                    <input type="password" class="form-control" id="signin-password-confirm" placeholder="Confirm Password">
+                                    <span class="control-label">Şifre onayla</span>
+                                    <asp:TextBox ID="txtconfirmpass" class="form-control" runat="server" TextMode="Password"></asp:TextBox>
                                 </div>
                                 <div class="form-group">
-                                    <label for="signin-password-confirm" class="control-label sr-only">Password</label>
-                                    <select class="form-control" id="signin-type-select">
-                                        <option value="User">User</option>
-                                        <option value="Company">Company</option>
-                                    </select>
+                                    <span class="control-label">kullanıcı türü</span>
+                                    <asp:DropDownList ID="ddltypeselect" class="form-control" runat="server">
+                                        <asp:ListItem Value="user">Kullanıcı</asp:ListItem>
+                                        <asp:ListItem Value="company">İşletme</asp:ListItem>
+                                    </asp:DropDownList>
                                 </div>
-                                <a href="Settings.aspx" class="btn btn-primary btn-lg btn-block">Create Account</a>
+                                <a href="Settings.aspx" class="btn btn-primary btn-lg btn-block">Hesap Oluştur</a>
+                                <!--<asp:Button ID="btnsignup" runat="server" class="btn btn-primary btn-lg btn-block" Text="Create Account" />-->
                             </form>
                         </div>
                     </div>
                     <div class="right">
                         <div class="overlay"></div>
                         <div class="content text">
-                            <h1 class="heading">Dashboard</h1>
-                            <p>by The Develovers</p>
+                            <h1 class="heading">IfWomenWants</h1>
+                            <p>Hesap Oluştur</p>
                         </div>
                     </div>
                     <div class="clearfix"></div>

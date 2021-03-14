@@ -29,19 +29,19 @@
                                 <div class="profile-header">
                                     <div class="overlay"></div>
                                     <div class="profile-main">
-                                        <img src="assets/img/user-medium.png" class="img-circle" alt="Avatar">
-                                        <h3 class="name">İsim Soyisim</h3>
+                                        <img src="assets/img/profile.png" height="100" class="img-circle" alt="Avatar">
+                                        <h3 class="name">Hande Karaca</h3>
                                         <span class="online-status status-available">Online</span>
                                     </div>
                                     <div class="profile-stat">
-                                        <div class="row">
+                                        <!--<div class="row">
                                             <div class="col-md-6 stat-item">
                                                 45 <span>text</span>
                                             </div>
                                             <div class="col-md-6 stat-item">
                                                 15 <span>text</span>
                                             </div>
-                                        </div>
+                                        </div>-->
                                     </div>
                                 </div>
                                 <!-- END PROFILE HEADER -->
@@ -50,10 +50,10 @@
                                     <div class="profile-info">
                                         <h4 class="heading">Basic Info</h4>
                                         <ul class="list-unstyled list-justify">
-                                            <li>Birthdate <span>01/01/2021</span></li>
-                                            <li>Mobile <span>0000 000 00 00</span></li>
-                                            <li>Email <span>example@mail.com</span></li>
-                                            <li>Website <span><a href="#">www.example.com</a></span></li>
+                                            <li>Birthdate <span>04/08/2000</span></li>
+                                            <li>Mobile <span>0505 345 12 24</span></li>
+                                            <li>Email <span>handekrc@hotmail.com</span></li>
+                                            <li>Website <span><a href="#">-</a></span></li>
                                         </ul>
                                     </div>
                                     <div class="profile-info">
@@ -114,11 +114,6 @@
                                                         <td>Buraya Tarih bilgisi gelicek</td>
                                                     <tr>
                                                         <td><a href="#">Project Management</a></td>
-                                                        <td>Buraya kurum bilgisi gelicek</td>
-                                                        <td>Buraya Tarih bilgisi gelicek</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td><a href="#">Wordpress</a></td>
                                                         <td>Buraya kurum bilgisi gelicek</td>
                                                         <td>Buraya Tarih bilgisi gelicek</td>
                                                     </tr>
