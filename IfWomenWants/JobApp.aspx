@@ -32,11 +32,11 @@
                                     <div class="row">
                                         <div class="col-md-2">İlan Başlığı</div>
                                         <div class="col-md-4">
-                                            <input type="text" class="form-control">
+                                            <asp:TextBox ID="txtilanbaslıgı" class="form-control" runat="server"></asp:TextBox>                                            
                                         </div>
                                         <div class="col-md-2">Pozisyon</div>
                                         <div class="col-md-4">
-                                            <input type="text" class="form-control">
+                                            <asp:TextBox ID="txtpozisyon" class="form-control" runat="server"></asp:TextBox>                                            
                                         </div>
                                     </div>
                                     <br />

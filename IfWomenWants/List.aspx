@@ -34,7 +34,7 @@
             <div class="main-content">
                 <div class="container-fluid">
                     <!-- OVERVIEW -->
-                    <table class="table table-bordered" id="dataTable" cellspacing="0">
+                    <table class="table table-bordered" id="dataTable" cellspacing ="0">
                         <thead>
                             <tr>
                                 <th>

@@ -37,15 +37,16 @@
                             <form class="form-auth-small" runat="server">
                                 <div class="form-group">
                                     <label for="signin-email" class="control-label sr-only">Email</label>
-                                    <input type="email" class="form-control" id="signin-email" placeholder="Email">
+                                                                          
+                                    <input id="email"  class="form-control" type="email" />
                                 </div>
                                 <div class="form-group">
                                     <label for="signin-password" class="control-label sr-only">Password</label>
-                                    <input type="password" class="form-control" id="signin-password" placeholder="Password">
+                                    <input id="Password"  class="form-control" type="password" />
                                 </div>
                                 <div class="form-group clearfix">
                                     <label class="fancy-checkbox element-left">
-										<input type="checkbox">
+                                        <asp:CheckBox ID="CheckBox" runat="server" />				
 										<span>Remember me</span>
 									</label>
                                 </div>

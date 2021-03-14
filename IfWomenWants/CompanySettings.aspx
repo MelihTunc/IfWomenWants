@@ -30,15 +30,15 @@
 									<br />
                                     <div class="row">
                                         <div class="col-md-4">Şirket Adı</div>
-                                        <div class="col-md-8">
-                                            <input type="text" class="form-control" placeholder="text field">
+                                        <div class="col-md-8">                                          
+                                            <asp:TextBox ID="txtcompanyname" class="form-control" runat="server"></asp:TextBox>
                                         </div>                                        
                                     </div>
                                     <br />
                                     <div class="row">
                                         <div class="col-md-4">Konum</div>
                                         <div class="col-md-8">
-                                            <input type="text" class="form-control" placeholder="text field">
+                                            <asp:TextBox ID="TextBox1" class="form-control" runat="server"></asp:TextBox>                                            
                                         </div>                                        
                                     </div>                                   
 								</div>
@@ -46,8 +46,8 @@
                                     <div class="row">
                                         <div class="col-md-4">Profil resmi</div>
                                         <div class="col-md-8">
-                                            <div class="input-group">
-										        <input class="form-control" type="file">
+                                            <div class="input-group">										        
+                                                <asp:FileUpload ID="ppupload" class="form-control" runat="server" />
 										        <span class="input-group-addon"><i class="fa fa-image"></i></span>
 									        </div>
                                         </div>
@@ -56,8 +56,8 @@
                                     <div class="row">
                                         <div class="col-md-4">Belge Doğrulama</div>
                                         <div class="col-md-8">
-                                            <div class="input-group">
-										        <input class="form-control" type="file">
+                                            <div class="input-group">										       
+                                                <asp:FileUpload ID="fieldcheckedupload" class="form-control" runat="server" />
 										        <span class="input-group-addon"><i class="fa fa-image"></i></span>
 									        </div>
                                         </div>
@@ -66,33 +66,33 @@
                                     <div class="row">
                                         <div class="col-md-4"> Web Sitesi</div>
                                         <div class="col-md-8">
-                                            <input type="text" class="form-control" placeholder="text field">
+                                            <asp:TextBox ID="txtwebsite" class="form-control" runat="server"></asp:TextBox>                                            
                                         </div>
                                     </div>
                                     <br />
                                     <div class="row">
                                         <div class="col-md-4">LinkedIn</div>
                                         <div class="col-md-8">
-                                            <input type="text" class="form-control" placeholder="text field">
+                                            <asp:TextBox ID="txtlinkdin" class="form-control" runat="server"></asp:TextBox>                                            
                                         </div>
                                     </div>
                                     <br />
                                     <div class="row">
                                         <div class="col-md-4">Instagram</div>
                                         <div class="col-md-8">
-                                            <input type="text" class="form-control" placeholder="text field">
+                                            <asp:TextBox ID="txtinstagram" class="form-control" runat="server"></asp:TextBox>
                                         </div>
                                     </div>
                                     <br />
                                     <div class="row">
                                         <div class="col-md-4">Twitter</div>
                                         <div class="col-md-8">
-                                            <input type="text" class="form-control" placeholder="text field">
+                                            <asp:TextBox ID="txttwitter" class="form-control" runat="server"></asp:TextBox>                                           
                                         </div>                                        
                                     </div>
                                     <br />
                                     <div class="row">
-                                        <div class="col-md-2">Hakkımda</div>
+                                        <div class="col-md-2">Hakkımızda</div>
                                         <div class="col-md-10">
                                             <textarea class="form-control" placeholder="textarea" rows="6"></textarea>
                                         </div>
@@ -100,7 +100,7 @@
                                     <br />
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <button type="button" class="btn btn-primary btn-block">Kaydet</button>
+                                            <asp:Button ID="btncompprofilesetting" class="btn btn-primary btn-block" runat="server" Text="Kaydet" />                                            
                                         </div>
                                     </div>
                                 </div>
@@ -117,34 +117,34 @@
                                     <div class="row">
                                         <div class="col-md-4">Şirket Ad</div>
                                         <div class="col-md-8">
-                                            <input type="text" class="form-control" placeholder="text field">
+                                            <asp:TextBox ID="txtcompanynamesetting" class="form-control" runat="server"></asp:TextBox>                                            
                                         </div>
                                     </div>
                                     <br />
                                     <div class="row">
                                         <div class="col-md-4">Sektör</div>
                                         <div class="col-md-8">
-                                            <input type="text" class="form-control" placeholder="text field">
+                                            <asp:TextBox ID="txtSektor" class="form-control" runat="server"></asp:TextBox>
                                         </div>
                                     </div>
                                     <br />
                                     <div class="row">
                                         <div class="col-md-4">Email</div>
                                         <div class="col-md-8">
-                                            <input type="email" class="form-control" placeholder="example@mail.com">
+                                            <asp:TextBox ID="txtemail" class="form-control" runat="server"></asp:TextBox>                                           
                                         </div>
                                     </div>
                                     <br />
                                     <div class="row">
                                         <div class="col-md-4">Telefon</div>
                                         <div class="col-md-8">
-                                            <input type="text" class="form-control" placeholder="0000 000 00 00">
+                                            <asp:TextBox ID="txtphone" class="form-control" runat="server"></asp:TextBox>                                           
                                         </div>
                                     </div>
                                     <br />
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <button type="button" class="btn btn-primary btn-block">Kaydet</button>
+                                            <asp:Button ID="btnaccountsetting" class="btn btn-primary btn-block" runat="server" Text="Kaydet" />                                            
                                         </div>
                                     </div>
                                 </div>
@@ -159,24 +159,24 @@
                                     <div class="row">
                                         <div class="col-md-2">Mevcut Şifre</div>
                                         <div class="col-md-10">
-                                            <input type="password" class="form-control">
+                                            <asp:TextBox ID="txtpassword" class="form-control" runat="server"></asp:TextBox>                                                                                       
                                         </div>
                                     </div>
                                     <br />
                                     <div class="row">
                                         <div class="col-md-2">Yeni Şifre</div>
                                         <div class="col-md-4">
-                                            <input type="password" class="form-control">
+                                            <asp:TextBox ID="txtnewpassword" class="form-control" runat="server"></asp:TextBox>
                                         </div>
                                         <div class="col-md-2">Yeni Şifre Onay</div>
                                         <div class="col-md-4">
-                                            <input type="password" class="form-control">
+                                            <asp:TextBox ID="txtnewpasswordapproved" class="form-control" runat="server" TextMode="Password"></asp:TextBox>
                                         </div>
                                     </div>
                                     <br />
                                     <div class="row">
                                         <div class="col-md-12">
-                                            <button type="button" class="btn btn-primary btn-block">Kaydet</button>
+                                            <asp:Button ID="btncompanypassseting" class="btn btn-primary btn-block" runat="server" Text="Kaydet" />                                            
                                         </div>
                                     </div>
                                 </div>
