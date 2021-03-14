@@ -8,16 +8,16 @@
                 <nav>
                     <ul class="nav">
                         <li>
-							<a href="List.aspx" class="active"><i class="lnr lnr-home"></i><span>Dashboard</span></a>
+							<a href="List.aspx" class="active"><i class="lnr lnr-home"></i><span>İlanlar</span></a>
 							<div id="subPages" class="collapse in">
 								<ul class="nav">
-									<li><a href="#" class="active"><i class="lnr lnr-arrow-right"></i><span>Details</span></a></li>
+									<li><a href="#" class="active"><i class="lnr lnr-arrow-right"></i><span>Detaylar</span></a></li>
 								</ul>
 							</div>
 						</li>
-                        <li><a href="Profile.aspx" class=""><i class="lnr lnr-user"></i><span>My Profile</span></a></li>
-                        <li><a href="JobApp.aspx" class=""><i class="lnr lnr-chart-bars"></i><span>Job Application</span></a></li>
-                        <li><a href="Settings.aspx" class=""><i class="lnr lnr-cog"></i><span>Settings</span></a></li>
+                        <li><a href="Profile.aspx" class=""><i class="lnr lnr-user"></i><span>Profilim</span></a></li>
+                        <!--<li><a href="JobApp.aspx" class=""><i class="lnr lnr-chart-bars"></i><span>Job Application</span></a></li>-->
+                        <li><a href="Settings.aspx" class=""><i class="lnr lnr-cog"></i><span>Ayarlar</span></a></li>
                     </ul>
                 </nav>
             </div>
@@ -37,8 +37,30 @@
 									<p class="panel-subtitle">Panel to display most important information</p>
 								</div>
 								<div class="panel-body">
-									<h4>Panel Content</h4>
-									<p>Objectively network visionary methodologies via best-of-breed users. Phosfluorescently initiate go forward leadership skills before an expanded array of infomediaries. Monotonectally incubate web-enabled communities rather than process-centric.</p>
+									<h4>GENEL NİTELİKLER VE İŞ TANIMI</h4>
+                                            Üniversitelerin 4 yıllık Bilgisayar Mühendisliği ya da Yazılım Mühendisliği bölümlerinden mezun<br />
+                                            .Net ve .Net Core teknolojilerine (ASP.Net MVC, .NET, C#) ileri seviyede hakim<br />
+                                            OOP, WebService teknolojileri, Microservice mimarisi deneyimi,<br />
+                                            Javascript, HTML, CSS, jQuery deneyimi,<br />
+                                            SQL’e hakim (MS Sql, MySql ile çalışan uygulama geliştirme tecrübesi tercih sebebi),<br />
+                                            Yazılım Geliştirme hayat döngüsü ve teknolojilerindeki gelişmeleri takip eden<br />
+                                            DevOps kültürüne aşina (Confluence , JIRA, BitBucket - Git, TeamCity, Octopus vb araçların bulunduğu ekosisistemlerde tecrübesi olan)<br />
+                                            İyi derecede ingilizce bilgisine sahip<br />
+                                            Analitik düşünme ve problem çözme yetkinliğine sahip<br />
+                                            Takım çalışmasına yatkın, iletişim konusunda başarılı<br />
+                                            Değişime ve öğrenmeye istekli<br />
+                                            Yaratıcı ve sonuç odaklı<br />
+                                            Tercih sebebi diğer Teknik nitelikler;
+                                            <ul>
+                                                <li>NodeJS</li>
+                                                <li>Redis</li>
+                                                <li>Typescript</li>
+                                            </ul>
+                                            <h4>İŞ TANIMI</h4>
+                                            SPIDYA Yazılım Dijital Dönüşüm ürünleri geliştirmektedir. Ekibimizde yer alacak dinamik Yazılım Geliştirme uzmanı arıyoruz.<br />
+                                               Yazılım Geliştirme metodolojisine ve iş planlarına uygun olarak yazılım geliştirme faaliyetlerini zamanında ve beklenen nitelikte yürütmek.<br />
+                                               Test bulgularındaki hataları çözümlemek<br />
+                                               Kalite yönetim sistemi ve uygulanan metodoloji kapsamında, geliştirdiği uygulamalara ait teknik dokümantasyonum oluşturulmasına destek olmak.<br />
 								</div>
 							</div>
 							<!-- END PANEL HEADLINE -->

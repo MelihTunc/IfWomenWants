@@ -19,10 +19,10 @@
             <div class="sidebar-scroll">
                 <nav>
                     <ul class="nav">
-                        <li><a href="#" class="active"><i class="lnr lnr-home"></i><span>Dashboard</span></a></li>
-                        <li><a href="Profile.aspx" class=""><i class="lnr lnr-user"></i><span>My Profile</span></a></li>
-                        <li><a href="JobApp.aspx" class=""><i class="lnr lnr-chart-bars"></i><span>Job Application</span></a></li>
-                        <li><a href="Settings.aspx" class=""><i class="lnr lnr-cog"></i><span>Settings</span></a></li>
+                        <li><a href="#" class="active"><i class="lnr lnr-home"></i><span>İlanlar</span></a></li>
+                        <li><a href="Profile.aspx" class=""><i class="lnr lnr-user"></i><span>Profilim</span></a></li>
+                        <!--<li><a href="JobApp.aspx" class=""><i class="lnr lnr-chart-bars"></i><span>Job Application</span></a></li>-->
+                        <li><a href="Settings.aspx" class=""><i class="lnr lnr-cog"></i><span>Ayarlar</span></a></li>
                     </ul>
                 </nav>
             </div>
@@ -43,15 +43,15 @@
                                 <td>
                                     <div class="panel-no-bottom-margin panel-headline">
                                         <div class="panel-heading">
-                                            <h3 class="panel-title">firma adı</h3>
-                                            <p class="panel-subtitle">Tarih</p>
+                                            <h3 class="panel-title">ostasguvenlik</h3>
+                                            <p class="panel-subtitle">21.01.2021</p>
                                         </div>
                                         <div class="panel-body">
                                             <div class="row">
                                                 <div class="col-md-12" style="text-align:justify">
-                                                    ilan başlığı
+                                                    <h4><strong>Kadın isterse</strong> Avukat</h4>
                                                     <div style="text-align: right;">
-                                                        <a href="Details.aspx" class="btn btn-primary">Detaylar</a>
+                                                        <a href="#" class="btn btn-primary">Detaylar</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -63,15 +63,15 @@
                                 <td>
                                     <div class="panel-no-bottom-margin panel-headline">
                                         <div class="panel-heading">
-                                            <h3 class="panel-title">firma adı</h3>
-                                            <p class="panel-subtitle">Tarih</p>
+                                            <h3 class="panel-title">kya group</h3>
+                                            <p class="panel-subtitle">12.02.2021</p>
                                         </div>
                                         <div class="panel-body">
                                             <div class="row">
                                                 <div class="col-md-12" style="text-align:justify">
-                                                    ilan başlığı
+                                                    <h4><strong>Kadın isterse</strong>Proje Yöneticisi</h4>
                                                     <div style="text-align: right;">
-                                                        <a href="Details.aspx" class="btn btn-primary">Detaylar</a>
+                                                        <a href="#" class="btn btn-primary">Detaylar</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -83,13 +83,13 @@
                                 <td>
                                     <div class="panel-no-bottom-margin panel-headline">
                                         <div class="panel-heading">
-                                            <h3 class="panel-title">firma adı</h3>
-                                            <p class="panel-subtitle">Tarih</p>
+                                            <h3 class="panel-title">a.tnç.ldt.şti</h3>
+                                            <p class="panel-subtitle">18.03.2021</p>
                                         </div>
                                         <div class="panel-body">
                                             <div class="row">
                                                 <div class="col-md-12" style="text-align:justify">
-                                                    ilan başlığı
+                                                    <h4><strong>Kadın isterse</strong>  Yazılım Geliştirme Uzmanı</h4>
                                                     <div style="text-align: right;">
                                                         <a href="Details.aspx" class="btn btn-primary">Detaylar</a>
                                                     </div>

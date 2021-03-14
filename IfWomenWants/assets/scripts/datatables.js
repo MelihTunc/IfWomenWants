@@ -13,7 +13,7 @@ $(document).ready(function() {
             "sProcessing": "İşleniyor...",
             "sSearch": "Ara:",
             "sZeroRecords": "Eşleşen kayıt bulunamadı",
-            "ordering": false,
+            order: [[0, 'asc']],
             responsive: true,
             scrollX: false,
             "oPaginate": {

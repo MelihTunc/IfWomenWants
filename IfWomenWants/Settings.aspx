@@ -7,10 +7,10 @@
             <div class="sidebar-scroll">
                 <nav>
                     <ul class="nav">
-                        <li><a href="List.aspx" class=""><i class="lnr lnr-home"></i><span>Dashboard</span></a></li>
-                        <li><a href="Profile.aspx" class=""><i class="lnr lnr-user"></i><span>My Profile</span></a></li>
-                        <li><a href="JobApp.aspx" class=""><i class="lnr lnr-chart-bars"></i><span>Job Application</span></a></li>
-                        <li><a href="#" class="active"><i class="lnr lnr-cog"></i><span>Settings</span></a></li>
+                        <li><a href="List.aspx" class=""><i class="lnr lnr-home"></i><span>İlanlar</span></a></li>
+                        <li><a href="Profile.aspx" class=""><i class="lnr lnr-user"></i><span>Profilim</span></a></li>
+                        <!--<li><a href="JobApp.aspx" class=""><i class="lnr lnr-chart-bars"></i><span>Job Application</span></a></li>-->
+                        <li><a href="#" class="active"><i class="lnr lnr-cog"></i><span>Ayarlar</span></a></li>
                     </ul>
                 </nav>
             </div>
@@ -81,7 +81,7 @@
                                     <div class="row">
                                         <div class="col-md-2">Hakkımda</div>
                                         <div class="col-md-10">
-                                            <textarea class="form-control" placeholder="textarea" rows="6"></textarea>
+                                            <textarea class="form-control" rows="6"></textarea>
                                         </div>
                                     </div>
                                     <br />

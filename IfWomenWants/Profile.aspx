@@ -7,10 +7,10 @@
             <div class="sidebar-scroll">
                 <nav>
                     <ul class="nav">
-                        <li><a href="List.aspx" class=""><i class="lnr lnr-home"></i><span>Dashboard</span></a></li>
-                        <li><a href="#" class="active"><i class="lnr lnr-user"></i><span>My Profile</span></a></li>
-                        <li><a href="JobApp.aspx" class=""><i class="lnr lnr-chart-bars"></i><span>Job Application</span></a></li>
-                        <li><a href="Settings.aspx" class=""><i class="lnr lnr-cog"></i><span>Settings</span></a></li>
+                        <li><a href="List.aspx" class=""><i class="lnr lnr-home"></i><span>İlanlar</span></a></li>
+                        <li><a href="#" class="active"><i class="lnr lnr-user"></i><span>Profilim</span></a></li>
+                        <!--<li><a href="JobApp.aspx" class=""><i class="lnr lnr-chart-bars"></i><span>Job Application</span></a></li>-->
+                        <li><a href="Settings.aspx" class=""><i class="lnr lnr-cog"></i><span>Ayarlar</span></a></li>
                     </ul>
                 </nav>
             </div>
@@ -50,10 +50,10 @@
                                     <div class="profile-info">
                                         <h4 class="heading">Basic Info</h4>
                                         <ul class="list-unstyled list-justify">
-                                            <li>Birthdate <span>04/08/2000</span></li>
-                                            <li>Mobile <span>0505 345 12 24</span></li>
-                                            <li>Email <span>handekrc@hotmail.com</span></li>
-                                            <li>Website <span><a href="#">-</a></span></li>
+                                            <li>Doğum Tarihi: <span>04/08/2000</span></li>
+                                            <li>Telefon: <span>0505 345 12 24</span></li>
+                                            <li>Email: <span>handekrc@hotmail.com</span></li>
+                                            <li>Website: <span><a href="#">-</a></span></li>
                                         </ul>
                                     </div>
                                     <div class="profile-info">
@@ -64,7 +64,7 @@
                                             <li><a href="#" class="twitter-bg"><i class="fa fa-twitter"></i></a></li>
                                             <li><a href="#" class="github-bg"><i class="fa fa-github"></i></a></li>
                                         </ul>
-                                        <div class="text-center"><a href="Settings.aspx" class="btn btn-primary btn-block">Edit Profile</a></div>
+                                        <div class="text-center"><a href="Settings.aspx" class="btn btn-primary btn-block">Profili Düzenle</a></div>
                                     </div>
                                 </div>
                                 <!-- END PROFILE DETAIL -->
@@ -78,8 +78,7 @@
                                     <div class="row">
                                         <div class="col-md-12 col-sm-12">
                                             <p style="text-align: justify;">
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                                                in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                Merhaba Ben Hande; 5 senedir yazılım alanında çalışmalar yapıyorum ve 3 senedir siber güvenlik ve 2 yıldan beri pentester alanında çalışmaktayım bu süre içerisinde 3 proje de pentester olarak çalıştım ve birinde halen çalışmaktayım bu süre zarfında birkaç sertifika almaya hak kazandım. Yazılım alanında her şeyi öğrenmeye açık bir insanım hızlı öğrenebilirim meraklı bir kişiliğim var, takım çalışmasına ayak uydurabilir ve analitik düşünce yapısına sahibim. gerektiğinde alan değiştirebilirim. Hobi olarak da yüzme, basketbol, fitness, bilgisayar oyunları, CTF makina çözmeyi severim.
                                             </p>
                                         </div>
                                     </div>
@@ -104,18 +103,18 @@
                                                 </thead>
                                                 <tbody>
                                                     <tr>
-                                                        <td><a href="#">Media Editor</a></td>
-                                                        <td>Buraya kurum bilgisi gelicek</td>
-                                                        <td>Buraya Tarih bilgisi gelicek</td>
+                                                        <td><a href="#">OSCP</a></td>
+                                                        <td>Offensive Security</td>
+                                                        <td>12.05.2018</td>
                                                     </tr>
                                                     <tr>
-                                                        <td><a href="#">E-Commerce Site</a></td>
-                                                        <td>Buraya kurum bilgisi gelicek</td>
-                                                        <td>Buraya Tarih bilgisi gelicek</td>
+                                                        <td><a href="#">MCT</a></td>
+                                                        <td>Microsoft</td>
+                                                        <td>15.04.2019</td>
                                                     <tr>
-                                                        <td><a href="#">Project Management</a></td>
-                                                        <td>Buraya kurum bilgisi gelicek</td>
-                                                        <td>Buraya Tarih bilgisi gelicek</td>
+                                                        <td><a href="#">CCNA</a></td>
+                                                        <td>Cisco</td>
+                                                        <td>3.10.2020</td>
                                                     </tr>
                                                 </tbody>
                                             </table>
