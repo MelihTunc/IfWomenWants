@@ -76,9 +76,9 @@
             <div class="container">
                 <div class="row">
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
-                        <h1>We provide the best <strong>strategy</strong><br>to grow up your <strong>business</strong></h1>
-                        <p>Softy Pinko is a professional Bootstrap 4.0 theme designed by Template Mo for your company at absolutely free of charge</p>
-                        <a href="#features" class="main-button-slider">Discover More</a>
+                        <h1>Güçlü <strong>Kadınlara </strong><br> İş Alanında <strong>Destek </strong>Verin</h1>
+                        <p>Kadınların iş alanında uğradığı negatif ayrımcılığa dur deyin ve kadın istihdamı artışına katkı sağlayın</p>
+                        <a href="#features" class="main-button-slider">Keşfet</a>
                     </div>
                 </div>
             </div>
@@ -99,8 +99,8 @@
                                 <div class="icon">
                                     <i><img src="assets/img/featured-item-01.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title">Modern Strategy</h5>
-                                <p>Customize anything in this template to fit your website needs</p>
+                                <h5 class="features-title"><strong>Adım 1</strong></h5>
+                                <p>Kayıt ol veya giriş yap<br /> ağımıza katıl!</p>
                             </div>
                         </div>
                         <!-- ***** Features Small Item End ***** -->
@@ -111,8 +111,8 @@
                                 <div class="icon">
                                     <i><img src="assets/img/featured-item-01.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title">Best Relationship</h5>
-                                <p>Contact us immediately if you have a question in mind</p>
+                                <h5 class="features-title"><strong>Adım 2</strong></h5>
+                                <p>Profilini doldur, bu sizi tanımamızda<br /> yardımcı olacak!</p>
                             </div>
                         </div>
                         <!-- ***** Features Small Item End ***** -->
@@ -123,8 +123,8 @@
                                 <div class="icon">
                                     <i><img src="assets/img/featured-item-01.png" alt=""></i>
                                 </div>
-                                <h5 class="features-title">Ultimate Marketing</h5>
-                                <p>You just need to tell your friends about our free templates</p>
+                                <h5 class="features-title"><strong>Adım 3</strong></h5>
+                                <p>Bünyemizdeki alanına uygun şirketi<br /> bul ve CV gönder!</p>
                             </div>
                         </div>
                         <!-- ***** Features Small Item End ***** -->
@@ -140,15 +140,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-md-12 col-sm-12 align-self-center" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                    <img src="assets/img/left-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                    <img src="assets/img/sol.png" class="rounded img-fluid d-block mx-auto" alt="App">
                 </div>
                 <div class="col-lg-1"></div>
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
                     <div class="left-heading">
-                        <h2 class="section-title">Let’s discuss about you project</h2>
+                        <h2 class="section-title">Biz Kimiz?</h2>
                     </div>
                     <div class="left-text">
-                        <p>Nullam sit amet purus libero. Etiam ullamcorper nisl ut augue blandit, at finibus leo efficitur. Nam gravida purus non sapien auctor, ut aliquam magna ullamcorper.</p>
+                        <p>Biz kadınların çoğu sektörde zorluk çektiğini ,cinsiyet eşitsizliğine maruz kaldığını fark eden ve bu bağlamda farkındalık oluşturmak isteyen bir ekibiz. "Kadınsın yapamazsın!" denilen her alanda "Kadın isterse yapar!" demek için buradayız.</p>
                     </div>
                 </div>
             </div>
@@ -167,15 +167,15 @@
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-bottom-fix">
                     <div class="left-heading">
-                        <h2 class="section-title">We can help you to grow your business</h2>
+                        <h2 class="section-title">"Kadın İsterse" Nedir?</h2>
                     </div>
                     <div class="left-text">
-                        <p>Aenean pretium, ipsum et porttitor auctor, metus ipsum iaculis nisi, a bibendum lectus libero vitae urna. Sed id leo eu dolor luctus congue sed eget ipsum. Nunc nec luctus libero. Etiam quis dolor elit.</p>
+                        <p>Kadın İsterse platformu kadın istihdamının artışına katkı sağlayan şirketlerin iş ilanlarını yayınlayabilecekleri ve Güçlü Kadınların ise bu iş ilanlarına binayen CV gönderebilecekleri bir platformdur.</p>
                     </div>
                 </div>
                 <div class="col-lg-1"></div>
                 <div class="col-lg-5 col-md-12 col-sm-12 align-self-center mobile-bottom-fix-big" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                    <img src="assets/img/right-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                    <img src="assets/img/sag.png" class="rounded img-fluid d-block mx-auto" alt="App">
                 </div>
             </div>
         </div>
@@ -189,8 +189,7 @@
                 <div class="row">
                     <div class="offset-lg-3 col-lg-6">
                         <div class="info">
-                            <h1>Work Process</h1>
-                            <p>Aenean nec tempor metus. Maecenas ligula dolor, commodo in imperdiet interdum, vehicula ut ex. Donec ante diam.</p>
+                            <h1>Neden Olmasın ?</h1>                            
                         </div>
                     </div>
                 </div>
@@ -199,47 +198,44 @@
                 <div class="row">
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="assets/img/work-process-item-01.png" alt=""></i>
-                            <strong>Get Ideas</strong>
-                            <span>Godard pabst prism fam cliche.</span>
+                            <i><img src="assets/img/mala.png" alt=""></i>                           
+                            <span><strong>Kadın İsterse</strong>Sıva Ustası Olabilir</span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="assets/img/work-process-item-01.png" alt=""></i>
-                            <strong>Sketch Up</strong>
-                            <span>Godard pabst prism fam cliche.</span>
+                            <i><img src="assets/img/pompa.png" alt=""></i>                            
+                            <span><strong>Kadın İsterse</strong>Pompacı<br /> Olabilir</span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="assets/img/work-process-item-01.png" alt=""></i>
-                            <strong>Discuss</strong>
-                            <span>Godard pabst prism fam cliche.</span>
+                            <i><img src="assets/img/dreksyon.png" alt=""></i>                            
+                            <span><strong>Kadın İsterse</strong>Şoför <br />Olabilir</span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="assets/img/work-process-item-01.png" alt=""></i>
-                            <strong>Revise</strong>
-                            <span>Godard pabst prism fam cliche.</span>
+                            <i><img src="assets/img/testere.png" alt=""></i>                            
+                            <span><strong>Kadın İsterse</strong>Marangoz Olabilir</span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="assets/img/work-process-item-01.png" alt=""></i>
-                            <strong>Approve</strong>
-                            <span>Godard pabst prism fam cliche.</span>
+                            <i><img src="assets/img/duduk.png" alt=""></i>                       
+                            <span><strong>Kadın İsterse</strong>Hakem <br />Olabilir</span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="assets/img/work-process-item-01.png" alt=""></i>
-                            <strong>Launch</strong>
-                            <span>Godard pabst prism fam cliche.</span>
+                            <i><img src="assets/img/makas.png" alt=""></i>                            
+                            <span><strong>Kadın İsterse</strong>Berber <br />Olabilir</span>
                         </a>
                     </div>
                 </div>
+                <div class="info">                   
+                            <p><strong>Kadın isterse, her şey olabilir...</strong></p>
+                        </div>
                 <!-- ***** Mini Box End ***** -->
             </div>
         </div>
@@ -253,14 +249,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
-                        <h2 class="section-title">What do they say?</h2>
+                        <h2 class="section-title">Kullanıcı Deneyimi</h2>
                     </div>
-                </div>
-                <div class="offset-lg-3 col-lg-6">
-                    <div class="center-text">
-                        <p>Donec tempus, sem non rutrum imperdiet, lectus orci fringilla nulla, at accumsan elit eros a turpis. Ut sagittis lectus libero.</p>
-                    </div>
-                </div>
+                </div>              
             </div>
             <!-- ***** Section Title End ***** -->
 
@@ -270,13 +261,13 @@
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/img/testimonial-icon.png" alt=""></i>
-                            <p>Proin a neque nisi. Nam ipsum nisi, venenatis ut nulla quis, egestas scelerisque orci. Maecenas a finibus odio.</p>
+                            <p>Teşvik edici ve faydalı bir platform, aylardır benzeri platformlarda iş bulamıyordum çünkü bu farkındalığı yaratmak için kimse çabalamıyordu, bu ay bu platform sayesinde yeni bir işe girdim, ilginiz ve çabanız için teşekkür ederim.</p>
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">
                             </div>
                             <div class="team-info">
-                                <h3 class="user-name">Catherine Soft</h3>
-                                <span>Managing Director</span>
+                                <h3 class="user-name">Elmas Kaya</h3>
+                                <span>Yönetici Asistan</span>
                             </div>
                         </div>
                     </div>
@@ -288,13 +279,13 @@
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/img/testimonial-icon.png" alt=""></i>
-                            <p>Integer molestie aliquam gravida. Nullam nec arcu finibus, imperdiet nulla vitae, placerat nibh. Cras maximus venenatis molestie.</p>
+                            <p>Kadınların bu süreçte her daim yanındayız ve destekçileriyiz. Şirketimizdeki kadın çalışan sayısı oranı %50 ve bu durum beni oldukça sevindiriyor. Kadınların her sektörde söz sahibi olabileceğini kanıtlayan bu platfoma teşekkürlerimi sunarım...</p>
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">
                             </div>
                             <div class="team-info">
-                                <h3 class="user-name">Kelvin Wood</h3>
-                                <span>Digital Marketer</span>
+                                <h3 class="user-name">Melih Tunç</h3>
+                                <span>Yazılım Şirketi Yöneticisi</span>
                             </div>
                         </div>
                     </div>
@@ -306,13 +297,13 @@
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/img/testimonial-icon.png" alt=""></i>
-                            <p>Quisque diam odio, maximus ac consectetur eu, auctor non lorem. Cras quis est non ante ultrices molestie. Ut vehicula et diam at aliquam.</p>
+                            <p>Sitenin içeriği o kadar güzel hazırlanmış ki bir gezintiye çıktığınızda motive oluyor ve bir kadının her şeyi başarabileceğini görüyorsunuz. İş ilanları oldukça fazla çoğu sektörde ve şehirde kadınlara destek veren bir çok şirket olduğunu görmek sevindirici. </p>
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">
                             </div>
                             <div class="team-info">
-                                <h3 class="user-name">David Martin</h3>
-                                <span>Website Manager</span>
+                                <h3 class="user-name">Mustafa Öztaş</h3>
+                                <span>Siber Güvenlik Araştırmacısı</span>
                             </div>
                         </div>
                     </div>
@@ -330,28 +321,23 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="count-item decoration-bottom">
-                            <strong>126</strong>
-                            <span>Projects</span>
+                            <strong>81</strong>
+                            <span>İlde</span>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="count-item decoration-top">
-                            <strong>63</strong>
-                            <span>Happy Clients</span>
+                            <strong>456005</strong>
+                            <span>Şirkette</span>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="count-item decoration-bottom">
-                            <strong>18</strong>
-                            <span>Awards Wins</span>
+                            <strong>3743257</strong>
+                            <span> Kadın İstihdam</span>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <div class="count-item">
-                            <strong>27</strong>
-                            <span>Countries</span>
-                        </div>
-                    </div>
+                  
                 </div>
             </div>
         </div>
@@ -366,26 +352,22 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
-                        <h2 class="section-title">Talk To Us</h2>
+                        <h2 class="section-title">İletişime Geç</h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>Maecenas pellentesque ante faucibus lectus vulputate sollicitudin. Cras feugiat hendrerit semper.</p>
+                        <p>Çıktığımız bu yolda bize destek vermek istiyorsan, istek şikayet ve önerilerini paylaşmak istiyorsan,ekibimizin bir parçası olamk istiyorsan; Bu bölgeyi doldurman yeterli !</p>
                     </div>
                 </div>
             </div>
             <!-- ***** Section Title End ***** -->
 
-            <div class="row">
+            
                 <!-- ***** Contact Text Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
-                    <h5 class="margin-bottom-30">Keep in touch</h5>
-                    <div class="contact-text">
-                        <p>110-220 Quisque diam odio, maximus ac consectetur eu, 10260
-                            <br>auctor non lorem</p>
-                        <p>You are NOT allowed to re-distribute Softy Pinko template on any template collection websites. Thank you.</p>
-                    </div>
+                  
+                    
                 </div>
                 <!-- ***** Contact Text End ***** -->
 
@@ -396,22 +378,22 @@
                             <div class="row">
                                 <div class="col-lg-6 col-md-12 col-sm-12">
                                     <fieldset>
-                                        <input name="name" type="text" class="form-control" id="name" placeholder="Full Name" required="">
+                                        <input name="name" type="text" class="form-control" id="name" placeholder="İsim Soyisim" required="">
                                     </fieldset>
                                 </div>
                                 <div class="col-lg-6 col-md-12 col-sm-12">
                                     <fieldset>
-                                        <input name="email" type="email" class="form-control" id="email" placeholder="E-Mail Address" required="">
+                                        <input name="email" type="email" class="form-control" id="email" placeholder="E-Mail Adres" required="">
                                     </fieldset>
                                 </div>
                                 <div class="col-lg-12">
                                     <fieldset>
-                                        <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message" required=""></textarea>
+                                        <textarea name="message" rows="6" class="form-control" id="message" placeholder="Mesajın" required=""></textarea>
                                     </fieldset>
                                 </div>
                                 <div class="col-lg-12">
                                     <fieldset>
-                                        <button type="submit" id="form-submit" class="main-button">Send Message</button>
+                                        <button type="submit" id="form-submit" class="main-button">Mesaj Yolla</button>
                                     </fieldset>
                                 </div>
                             </div>
